@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\ADMIN\source\repos\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\ADMIN\source\repos\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.FMain.resources
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\ADMIN\source\repos\Cafe\Cafe\obj\Debug\Cafe.pdb
